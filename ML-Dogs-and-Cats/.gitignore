@@ -1,0 +1,10 @@
+# Pastas com muitas imagens (Antes da renomeação)
+cat
+dog
+
+# Pastas com muitas imagens (Depois da renomeação)
+Gato
+Cachorro
+
+# configurações sensíveis
+.env
