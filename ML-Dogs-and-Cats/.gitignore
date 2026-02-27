@@ -8,3 +8,4 @@ Cachorro
 
 # configurações sensíveis
 .env
+.venv
