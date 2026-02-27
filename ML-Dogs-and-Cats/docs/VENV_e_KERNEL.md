@@ -81,6 +81,14 @@ pip install -r requirements.txt
 pip freeze > requirements.txt
 ```
 
+### OBSERVAÇÂO
+
+Realize o comando `pip freeze > requirements.txt` no seu terminal se estiver dentro do diretório **ML-Dogs-and-Cats**
+
+- Ex:
+
+  - Caminho exemplo: `.\machine-learning\ML-Dogs-and-Cats`
+
 ## 6. Selecionar o Kernel no Jupyter (VSCode)
 
 1. Abra seu notebook que você criou;
